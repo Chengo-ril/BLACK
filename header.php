@@ -302,6 +302,7 @@
 
 								<li><a class="sport" href="cat.php?cat=fashion">Fashion</a></li>
 								<li><a class="travel" href="cat.php?cat=entertainment">Entertainment</a></li>
+								<li><a class="travel" href="cat.php?cat=entertain">Entertain</a></li>
 								<!-- <li><a class="food" href="videocat.php?vid=Video">Videos</li> -->
 
 							</ul>
