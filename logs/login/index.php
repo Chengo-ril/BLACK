@@ -33,8 +33,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
 <link href="images/logo.png" rel="icon">
 <title>ECTASY | Login</title>
-<meta name="description" content="Login and Register Form Html Template">
-<meta name="author" content="harnishdesign.net">
+<meta property="og:site_name" content="">
+<meta property="og:title" content="ECTASY" />
+<meta property="og:description" content="Dont miss out latest news on fashion, entertainment and politics" />
+<meta property="author" itemprop="image" content="Chengo Ril">
+<meta name="language" content="english">
+<meta property="og:type" content="website, news" />
 
 <!-- Web Fonts
 ========================= -->

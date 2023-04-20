@@ -20,6 +20,12 @@ if (isset($_REQUEST['cat'])){
 
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta property="og:site_name" content="">
+	<meta property="og:title" content="ECTASY" />
+	<meta property="og:description" content="Dont miss out latest news on fashion, entertainment and politics" />
+	<meta property="author" itemprop="image" content="Chengo Ril">
+	<meta name="language" content="english">
+	<meta property="og:type" content="website, news" />
 
 	<link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,900,400italic' rel='stylesheet' type='text/css'>
 	<link href="../../../maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">

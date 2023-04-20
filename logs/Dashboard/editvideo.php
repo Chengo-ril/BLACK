@@ -20,6 +20,12 @@ if(isset($_REQUEST['id'])){
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta property="og:site_name" content="">
+	<meta property="og:title" content="ECTASY" />
+	<meta property="og:description" content="Dont miss out latest news on fashion, entertainment and politics" />
+	<meta property="author" itemprop="image" content="Chengo Ril">
+	<meta name="language" content="english">
+	<meta property="og:type" content="website, news" />
 
     <title>Ectasy | Video update</title>
 

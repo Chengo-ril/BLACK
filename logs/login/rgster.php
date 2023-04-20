@@ -4,7 +4,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Responsive Bootstrap 4 and web Application ui kit.">
+    <meta property="og:site_name" content="">
+	<meta property="og:title" content="ECTASY" />
+	<meta property="og:description" content="Dont miss out latest news on fashion, entertainment and politics" />
+	<meta property="author" itemprop="image" content="Chengo Ril">
+	<meta name="language" content="english">
+	<meta property="og:type" content="website, news" />
 
 
     
