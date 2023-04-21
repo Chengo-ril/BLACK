@@ -10,11 +10,11 @@
             <span class="number">9,455</span>
             <span>Subscribers</span>
         </li> -->
-        <li>
+        <!-- <li>
             <a href="https://web.facebook.com/theinsiderng" class="instagram"><i class="fa fa-instagram"></i></a>
             <span class="number">300</span>
             <span>Followers</span>
-        </li>
+        </li> -->
         <li>
             <a href="https://twitter.com/chengoril?t=LJH-2zdfyzGz6_AC-5yrqw&s=08
 " class="twitter"><i class="fa fa-twitter"></i></a>
