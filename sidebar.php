@@ -16,8 +16,9 @@
             <span>Followers</span>
         </li>
         <li>
-            <a href="#" class="twitter"><i class="fa fa-twitter"></i></a>
-            <span class="number">3,501</span>
+            <a href="https://twitter.com/chengoril?t=LJH-2zdfyzGz6_AC-5yrqw&s=08
+" class="twitter"><i class="fa fa-twitter"></i></a>
+            <span class="number">5,091</span>
             <span>Followers</span>
         </li>
         <!-- <li>
